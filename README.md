@@ -1,5 +1,5 @@
 <title>HTML: Images</title>
-<h1>Liove live!</h1>
+<h1>Love live!</h1>
 
 <img src="https://wallpapermemory.com/uploads/740/love-live-wallpaper-hd-1080p-151905.jpg"> 
 
@@ -27,3 +27,5 @@
 
 <p>Bokura no Live Kimi to no Life <br>
 <li>Natsuiro Egao de 1, 2, Jump!</li></p>
+    </body>
+</html>

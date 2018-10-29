@@ -28,5 +28,4 @@
 
 <p>Bokura no Live Kimi to no Life <br>
 <li>Natsuiro Egao de 1, 2, Jump!</li></p>
-    </body>
-</html>
+

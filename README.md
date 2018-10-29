@@ -11,7 +11,7 @@
     <li>they make this group in order to make their school be popular.</li>
 </ul>
 
-<h3>who are they></h3>
+<h3>who are they</h3>
 
  <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Love_Live%21_promotional_image.jpg"> 
  <a href='https://en.wikipedia.org/wiki/Love_Live!'>Click here </a>

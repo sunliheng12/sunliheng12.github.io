@@ -30,5 +30,5 @@
 <li>Natsuiro Egao de 1, 2, Jump!</li></p>
 
 <li>Login part</li>
-<a href='https://www.w3schools.com/code/tryit.asp?filename=FX9UL3W0B4QP'>Click here </a>
+<a href='https://html.editey.com/file/10YZN4VnYuLJ41S03mLTP1bhRv_CxgmaW'>Click here </a>
 
